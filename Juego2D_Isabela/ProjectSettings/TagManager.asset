@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trampa
+  - Start
+  - Return
+  - Bola
+  - Move_Plataforma
+  - Terreno
+  - Veneneo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terreno
+  - Water
+  - UI
+  - Enemigo
+  - Player
+  - Trampa
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 243516571
+    locked: 0

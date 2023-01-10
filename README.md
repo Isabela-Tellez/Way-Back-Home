@@ -25,7 +25,8 @@ Un videojuego de plataformas 2D con un enfoque narrativo y mecánicas clásicas,
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/Isabela-Tellez/Way-Back-Home.git
+   ```bash
+   git clone [https://github.com/Isabela-Tellez/Way-Back-Home.git](https://github.com/Isabela-Tellez/Way-Back-Home.git)
 
 2. **Open with Unity Hub:** Select the project folder and ensure you have the correct Unity version installed.
 3. **Escenas:** Localiza la escena principal en la carpeta de contenido para ejecutar el juego.

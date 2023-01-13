@@ -1,5 +1,9 @@
 # Way Back Home 🏠
 
+<p align="center">
+  <img src="Screenshots/Juego2DIsabela-gif.gif" alt="Gameplay Demo" width="600">
+</p>
+
 Un videojuego de plataformas 2D con un enfoque narrativo y mecánicas clásicas, desarrollado en Unity. Este proyecto demuestra el uso de físicas 2D, gestión de estados del personaje y diseño de niveles dinámicos.
 
 ## 🚀 Key Features
@@ -34,3 +38,9 @@ Un videojuego de plataformas 2D con un enfoque narrativo y mecánicas clásicas,
 
 ---
 Developed by [Isabela Téllez](https://github.com/Isabela-Tellez)
+
+## Features
+- 2D Side-scroller mechanics.
+- Custom pixel art assets.
+- Responsive player controls.
+- Immersive atmosphere and sound design.
